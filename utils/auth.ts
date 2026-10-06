@@ -41,4 +41,3 @@ export function get_auth_status(context) {
   }
   return false;
 }
-
