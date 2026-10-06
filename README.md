@@ -34,4 +34,4 @@ cloudflare R2是一个文件储存系统，配合Cloudflare Workers可以实现�
 
 7.前往Pages->cloudflare-r2-oss->设置->函数->R2 存储桶绑定,绑定R2存储桶,变量名称`BUCKET`
 
-8.在部署页面重新部署即可
+8.在部署页面重新部署即可  ok
